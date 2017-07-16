@@ -1,0 +1,2 @@
+# lorempictures
+Placeholder pictures
